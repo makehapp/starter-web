@@ -8,3 +8,4 @@ archive
 build
 public
 AdvancedReactRedux_Complete
+*.orig
