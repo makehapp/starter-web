@@ -19,3 +19,5 @@
 ## Adding subline while on master again
 
 ## Adding subline while on master again but before rebasing to myfeature
+
+## Adding subline while on myfeature right after rebasing master to myfeature
