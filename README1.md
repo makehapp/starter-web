@@ -7,3 +7,7 @@
 ## Committed but not Pushed
 
 ## Committed but not Pushed 2
+
+## Added but not committed
+
+## Added but not staged
