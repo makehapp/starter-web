@@ -11,3 +11,7 @@
 ## Added but not committed
 
 ## Added but not staged
+
+### Copyright
+
+2018 wird geil !!
